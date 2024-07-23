@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Kıvanç and I am a 42 student, linguistics graduate and a self-taught programmer</h2>
+<h1 align="center">Hi 👋! My name is Kıvanç and I am a 42 student, a self-taught programmer, and a linguistics graduate.</h1>
 
 ###
 
