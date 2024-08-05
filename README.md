@@ -61,13 +61,3 @@
 ![Snake animation](https://raw.githubusercontent.com/kivanc57/kivanc57/output/github-contribution-grid-snake-dark.svg)
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/e43rjw4tazne1t5623efjemhu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=e43rjw4tazne1t5623efjemhu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
