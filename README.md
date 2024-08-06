@@ -56,8 +56,8 @@
 </div>
 
 ###
-
 <br clear="both">
+
 
 ![Snake animation](https://raw.githubusercontent.com/kivanc57/kivanc57/output/github-contribution-grid-snake-dark.svg)
 
